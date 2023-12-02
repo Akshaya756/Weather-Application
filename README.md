@@ -30,7 +30,9 @@ This weather app is built in Python and utilizes the OpenWeatherMap API to fetch
    git clone https://github.com/your-username/weather-app.git
 
 1.Navigate to the project directory
+
         cd weather app
         
 2.Install the dependencies 
+
         pip install -r requirements.txt
