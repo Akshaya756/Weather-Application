@@ -25,7 +25,7 @@ This weather app is built in Python and utilizes the OpenWeatherMap API to fetch
 - OpenWeatherMap API Key
 
 ### Installation
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-app.git
 
